@@ -13,7 +13,7 @@
   - 🏥 Development intern at [MedCloud](https://medcloud.link/?gclid=Cj0KCQiA8dH-BRD_ARIsAC24umZxiLBPQaF3BXrpbmk3M_SgI4wNkCKM18LG-ewQVPWv1KNI-VXiZcIaArXVEALw_wcB)
   
 
-**Languages and Tools:**
+**Languages:**
 
 <!-- JavaScript -->
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -38,7 +38,7 @@
 <!-- C# -->
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
 <!-- .NET -->
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png"></code><br/>
 <!-- git -->
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <!-- terminal -->
