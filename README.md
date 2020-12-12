@@ -65,9 +65,4 @@ src="https://p7.hiclipart.com/preview/811/817/139/jenkins-continuous-integration
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 <!-- GCP -->
 <code><img height="25" src="https://cdn.iconscout.com/icon/free/png-512/google-cloud-2038785-1721675.png"></code>
-<br/>
-
-<!-- html -->
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<!-- css -->
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<br/
