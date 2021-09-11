@@ -10,7 +10,7 @@
  
  ### **Some of my engagements**
   - 🚀 I'm Co-founder of [E²C Junior](https://e2cjunior.com/) - Junior Computer Engineering Company where I worked as a Sales Director in the year 2020 and currently I work as a voluntary collaborator and consultant.
-  - 🏥 Development intern at [MedCloud](https://medcloud.link/?gclid=Cj0KCQiA8dH-BRD_ARIsAC24umZxiLBPQaF3BXrpbmk3M_SgI4wNkCKM18LG-ewQVPWv1KNI-VXiZcIaArXVEALw_wcB)
+  - 🏥 Devops Developer at [Elint](https://www.elint.com.br/)
   
 
 
