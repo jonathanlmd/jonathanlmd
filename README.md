@@ -6,11 +6,12 @@
 
 ## Hi! 👋  Nice to meet you! I'm Jonathan 😃
 
-  I'm a fullstack developer and sutent of Computer Engeneering in State University of Ponta Grossa. My study focus is on backend, DevOps, Data Science and i have interesse in IoT and Embedded Systems.
+  I'm a fullstack developer and sutent of Computer Engeneering in State University of Ponta Grossa. My study focus is on DevOps and Data Science. I'm also an enthusiastic of IoT and Embedded Systems.
  
  ### **Some of my engagements**
+ - 🏥 Devops Developer at [Elint](https://www.elint.com.br/)
   - 🚀 I'm Co-founder of [E²C Junior](https://e2cjunior.com/) - Junior Computer Engineering Company where I worked as a Sales Director in the year 2020 and currently I work as a voluntary collaborator and consultant.
-  - 🏥 Devops Developer at [Elint](https://www.elint.com.br/)
+  
   
 
 
