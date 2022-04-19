@@ -10,7 +10,7 @@
  
  ### **Some of my engagements**
  - 🏥 Devops Developer at [Pollum.io](https://pollum.io/)
- - 🚀 I'm Co-founder of [E²C Junior](https://e2cjunior.com/) - Junior Computer Engineering Company where I worked as a Sales Director in the year 2020 and currently I work as a voluntary collaborator and consultant.
+ - 🚀 I'm Co-founder of [E²C Junior](https://e2cjunior.com/) - Junior Computer Engineering Company where I worked as a Sales Director in the year 2020 and after as a voluntary collaborator and consultant.
   
   
 
