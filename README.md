@@ -6,12 +6,11 @@
 
 ## Hi! 👋  Nice to meet you! I'm Jonathan 😃
 
-  I'm a Devops and fullstack developer and sutent of Computer Engeneering in State University of Ponta Grossa. My study focus is on DevOps and Data Science. I'm also an enthusiastic of IoT and Embedded Systems.
+  I'm a Degree in Computer Engineering from the State University of Ponta Grossa, currently working with Deveops where actually I'm focusing my study. During my degree I accumulated years of research in Data Science, working specifically in applied computing in agriculture and medical areas. I've also worked as Backend and Fullstack developer with JS/TS, React, and React Navite. I'm also enthusiastic about IoT and Embedded Systems and work with it in hobbies and freelancer projects.
  
  ### **Some of my engagements**
  - 🏥 Devops Developer at [Pollum.io](https://pollum.io/)
- - 🚀 I'm Co-founder of [E²C Junior](https://e2cjunior.com/) - Junior Computer Engineering Company where I worked as a Sales Director in the year 2020 and after as a voluntary collaborator and consultant.
-  
+ - 🚀 I was Co-founder of [E²C Junior](https://e2cjunior.com/) - Junior Computer Engineering Company at University where I worked as a Sales Director in the year 2020 and after, in 2021 as a voluntary collaborator and consultant.
   
 
 
@@ -52,7 +51,8 @@ src="https://p7.hiclipart.com/preview/811/817/139/jenkins-continuous-integration
 <br/>
 <!-- Aws --><code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 <!-- GCP --><code><img height="25" src="https://cdn.iconscout.com/icon/free/png-512/google-cloud-2038785-1721675.png"></code> 
-
+<br/>
+<br/>
 <div>
   <a href="https://github.com/jonathanlucasmd">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonathanlmd&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
