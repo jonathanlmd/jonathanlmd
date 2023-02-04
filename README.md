@@ -9,7 +9,7 @@
   I'm a Degree in Computer Engineering from the State University of Ponta Grossa, currently working with Deveops where actually I'm focusing my study. During my degree I accumulated years of research in Data Science, working specifically in applied computing in agriculture and medical areas. I've also worked as Backend and Fullstack developer with JS/TS, React, and React Navite. I'm also enthusiastic about IoT and Embedded Systems and work with it in hobbies and freelancer projects.
  
  ### **Some of my engagements**
- - 🏥 Devops Developer at [Pollum.io](https://pollum.io/)
+ - 🏥 Devops Engeneer at [Pollum.io](https://pollum.io/)
  - 🚀 I was Co-founder of [E²C Junior](https://e2cjunior.com/) - Junior Computer Engineering Company at University where I worked as a Sales Director in the year 2020 and after, in 2021 as a voluntary collaborator and consultant.
   
 
