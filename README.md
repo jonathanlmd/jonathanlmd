@@ -6,7 +6,9 @@
 
 ## Hi! 👋  Nice to meet you! I'm Jonathan 😃
 
-  I'm a Degree in Computer Engineering from the State University of Ponta Grossa, currently working with Deveops where actually I'm focusing my study. During my degree I accumulated years of research in Data Science, working specifically in applied computing in agriculture and medical areas. I've also worked as Backend and Fullstack developer with JS/TS, React, and React Navite. I'm also enthusiastic about IoT and Embedded Systems and work with it in hobbies and freelancer projects.
+  I have a degree in Computer Engineering from the State University of Ponta Grossa, and I am currently working with Deveops, where I am now focusing on my studies. During my degree I accumulated years of research in Data Science, working specifically in applied computing in agriculture and medical areas.
+
+Before diving into DevOps, I also worked as a full-stack developer on different types of products using mainly Nodejs, React, and React-Native. I also worked as a software developer and architect for IoT systems using many of the leading technologies in the field like MQTT, proto buff apache kafka, node-red, etc.
  
  ### **Some of my engagements**
  - 🏥 Devops Engeneer at [Pollum.io](https://pollum.io/)
