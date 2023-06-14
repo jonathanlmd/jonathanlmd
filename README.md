@@ -55,9 +55,10 @@ src="https://p7.hiclipart.com/preview/811/817/139/jenkins-continuous-integration
 <!-- GCP --><code><img height="25" src="https://cdn.iconscout.com/icon/free/png-512/google-cloud-2038785-1721675.png"></code> 
 <br/>
 <br/>
-<div>
+<!-- <div>
   <a href="https://github.com/jonathanlmd">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonathanlmd&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanlmd&layout=compact&langs_count=7&theme=radical"/> 
-  -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanlmd&layout=compact&langs_count=7&theme=radical"/> 
 </div>
+-->
+
