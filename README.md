@@ -10,10 +10,6 @@
 
 Before diving into DevOps, I also worked as a full-stack developer on different types of products using mainly Nodejs, React, and React-Native. I also worked as a software developer and architect for IoT systems using many of the leading technologies in the field like MQTT, proto buff apache kafka, node-red, etc.
  
- ### **Some of my engagements**
- - 🏥 Devops Engeneer at [Pollum.io](https://pollum.io/)
- - 🚀 I was Co-founder of [E²C Junior](https://e2cjunior.com/) - Junior Computer Engineering Company at University where I worked as a Sales Director in the year 2020 and after, in 2021 as a voluntary collaborator and consultant.
-  
 
 
 **Languages and Tools:**
